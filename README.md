@@ -9,12 +9,22 @@ Programming. I have worked on various projects and interacted directly with clie
 hard worker. I am also capable of public speaking, communication and team management. Wa
 
 I am ready for : 
-- FLutter Front-end
-- Flutter State Management GetX
-- Flutter Firebase
-- Front-end Web Dev
-- PHP MVC
-- PHP Back-end
+Mobile{
+    - FLutter Front-end
+    - Flutter State Management GetX
+    - Flutter Firebase
+} 
+Website{
+    - Front-end Web Dev
+    - PHP MVC
+    - PHP Back-end
+    - Flutter Web
+}
+Desktop App{
+    - Flutter Desktop
+}
+
+
 
 Ecommerce with PHP MVC :
 <img src="Screenshot from 2022-01-09 20-28-46.png" width="100%">
