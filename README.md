@@ -12,3 +12,5 @@ I am ready for :
 - Front-end Web Dev
 - PHP MVC
 - PHP Back-end
+
+<img src="Screenshot from 2022-01-09 20-28-46.png" width="350">
