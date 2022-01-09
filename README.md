@@ -23,7 +23,8 @@ I am ready for :
 <h3>Desktop App</h3>
     - Flutter Desktop
 <br><br>
-<h3>Ecommerce with PHP MVC</h3>
+<h1>you can see the applications that I have made below</h1>
+<!-- <h3>Ecommerce with PHP MVC</h3>
 <img src="Screenshot from 2022-01-09 20-28-46.png" width="100%">
 
 <h3>Mobile Projects : My-Quran Mobile Flutter; FarmQow FLutter; Sociable Mobile </h3>
@@ -31,7 +32,7 @@ I am ready for :
     <img src="Screenshot_20211221-075644.jpg" width="250">
     <img src="Screenshot_20211221-080058.jpg" width="250">
     <img src="WhatsApp Image 2022-01-09 at 8.30.12 PM (1).jpeg" width="250">
-</div>
+</div> -->
     
 
 
