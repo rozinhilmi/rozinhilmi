@@ -3,26 +3,27 @@ email : rozinhilmi@gmail.com
 
 Hello there, I'm Hilmi  👋
 
-
 I am a third year information systems student with experience in Mobile Programming and Web
 Programming. I have worked on various projects and interacted directly with clients. I am a fast learner and
-hard worker. I am also capable of public speaking, communication and team management. Wa
+hard worker. I am also capable of public speaking, communication and team management. Want to learn
+more about mobile programmer, web programmer and pursue more experience in internship.
 
-I am ready for : 
-Mobile{
-    - FLutter Front-end
-    - Flutter State Management GetX
-    - Flutter Firebase
-} 
-Website{
-    - Front-end Web Dev
-    - PHP MVC
-    - PHP Back-end
-    - Flutter Web
-}
-Desktop App{
+I am ready for : <br>
+
+Mobile :<br>
+    - FLutter Front-end <br>
+    - Flutter State Management GetX <br>
+    - Flutter Firebase <br>
+
+Website :<br>
+    - Front-end Web Dev <br>
+    - PHP MVC <br>
+    - PHP Back-end <br>
+    - Flutter Web <br>
+
+Desktop App :<br>
     - Flutter Desktop
-}
+
 
 
 
