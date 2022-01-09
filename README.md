@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello there, I'm Hilmi  👋
 
-<!--
-**rozinhilmi/rozinhilmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a third year information systems student with experience in Mobile Programming and Web
+Programming. I have worked on various projects and interacted directly with clients. I am a fast learner and
+hard worker. I am also capable of public speaking, communication and team management. Wa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am ready for : 
+- FLutter Front-end
+- Flutter State Management GetX
+- Flutter Firebase
+- Front-end Web Dev
+- PHP MVC
+- PHP Back-end
