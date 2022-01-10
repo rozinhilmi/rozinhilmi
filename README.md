@@ -43,8 +43,7 @@ I am ready for :
 
 
 <h3>Ecommerce with PHP MVC</h3>
-<img src="Screenshot from 2022-01-09 20-28-46.png" width="100%">![Screenshot from 2022-01-09 20-28-46](https://user-images.githubusercontent.com/69004866/148787198-e9202d15-58a7-4eb0-89cc-54052970deb2.png)
-
+<img src="Screenshot from 2022-01-09 20-28-46.png" width="100%">
 
 <h3>Mobile Projects : My-Quran Mobile Flutter; FarmQow FLutter; Sociable Mobile </h3>
 <div style="display:flex;flex-wrap:wrap">
