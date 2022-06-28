@@ -12,9 +12,11 @@ I am ready for :
 <h3>Mobile</h3>
     - FLutter Front-end <br>
     - Flutter State Management GetX <br>
-    - Flutter Firebase <br>
+    - Flutter HTTP GET,PUT,POST,etc.. <br>
 
 <h3>Website</h3>
+    - React JS <br>
+    - Laravel 8 <br>
     - Front-end Web Dev <br>
     - PHP MVC <br>
     - PHP Back-end <br>
