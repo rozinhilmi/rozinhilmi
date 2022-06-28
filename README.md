@@ -38,7 +38,9 @@ I am ready for :
 <code><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
 **Framework**  
-<code><img height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"></code>
 <br><br>
 
 
