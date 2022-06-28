@@ -16,11 +16,13 @@ I am ready for :
 
 <h3>Website</h3>
     - React JS <br>
+    - React Router <br>
     - Laravel 8 <br>
     - Front-end Web Dev <br>
     - PHP MVC <br>
     - PHP Back-end <br>
     - Flutter Web <br>
+    - AJAX
 
 <h3>Desktop App</h3>
     - Flutter Desktop<br><br>
