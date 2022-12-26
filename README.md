@@ -17,6 +17,7 @@ I am ready for :
 <h3>Website</h3>
     - React JS <br>
     - React Router <br>
+    - React State Management(Redux) <br>
     - Laravel 8 <br>
     - Front-end Web Dev <br>
     - PHP MVC <br>
