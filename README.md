@@ -9,11 +9,6 @@ hard worker. I am also capable of public speaking, communication and team manage
 more about mobile programmer, web programmer and pursue more experience in software engineering.
 
 I am ready for :
-<h3>Mobile</h3>
-    - FLutter Front-end <br>
-    - Flutter State Management GetX <br>
-    - Flutter HTTP GET,PUT,POST,etc.. <br>
-
 <h3>Website</h3>
     - React JS <br>
     - React State Management(Redux) <br>
@@ -24,6 +19,10 @@ I am ready for :
     - PHP Back-end <br>
     - Flutter Web <br>
     - AJAX
+<h3>Mobile</h3>
+    - FLutter Front-end <br>
+    - Flutter State Management GetX <br>
+    - Flutter HTTP GET,PUT,POST,etc.. <br>
 
 **Programming Language**  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -40,7 +39,6 @@ I am ready for :
 <code><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
 **Framework**  
-<code><img height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"></code>
 <br><br>
