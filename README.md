@@ -59,7 +59,7 @@ Technology : NodeJs, React Js, Material UI, Redux State Management
 <hr>
 <br><br>
 <hr>
-<h1>rutejatim.netlify.app</h1><h3>Find the Fastest Route for Road Driving in East Java area</h3>
+<h1>https://rutejatim.netlify.app</h1><h3>Find the Fastest Route for Road Driving in East Java area</h3>
 <img width="100%" src="https://raw.githubusercontent.com/rozinhilmi/rutejatim.netlify.app/main/src/assets/preview.png">
 <p>Decision Support System in Determining the shortest route between cities in East Java. This system was created by converting the East Java Map into a Graph Form by making the City Center as a point and inter-city highways as sides. Djikstra's algorithm plays a role in determining the shortest route between points on the East Java graph</p>
 Technology : NodeJs, React Js, Material UI, Redux State Management
