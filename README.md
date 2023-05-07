@@ -50,8 +50,7 @@ I am ready for :
 
 
 <h1>you can see the applications that I have made below</h1>
-<h3>ChatOpenAI https://miassistant.netlify.app</h3>
-<h3>AI Chat bot, Ask everything, powered by open AI API</h3>
+<h1>ChatOpenAI https://miassistant.netlify.app</h1> <h3>AI Chat bot, Ask everything, powered by open AI API</h3>
 <br>
 <img width="100%" src="https://raw.githubusercontent.com/rozinhilmi/ChatOpenAI/main/src/assets/webView.png">
 <br>
@@ -61,22 +60,19 @@ Technology : NodeJs, React Js, Chakra UI, Redux State Management, openAi API
 <h3>Find Fastest Route for Patient Delivery Ambulan in Jember City</h3>
 <br>
 <img width="100%" src="https://raw.githubusercontent.com/rozinhilmi/Ambulan-Delivery-Route-Jember/main/src/assets/preview.png">
-<br>
 <p>Decision Support System in Determining the Shortest Route for Ambulance to the Hospital. This system was created by converting the Jember Regency Map into a Graph by making Public Health Centers, Hospitals and Sub-Districts as points and highways as sides. Djikstra's algorithm plays a role in determining the shortest route between points in this Jember Regency Graf
 
 Technology : NodeJs, React Js, Material UI, Redux State Management
-    
-<h1>rutejatim.netlify.app</h1>
-<h3>Find the Fastest Route for Road Driving in East Java area</h3
 <br>
+   
+<h1>rutejatim.netlify.app</h1><h3>Find the Fastest Route for Road Driving in East Java area</h3>
 <img width="100%" src="https://raw.githubusercontent.com/rozinhilmi/rutejatim.netlify.app/main/src/assets/preview.png">
-<br>
-<p>Decision Support System in Determining the shortest route between cities in East Java. This system was created by converting the East Java Map into a Graph Form by making the City Center as a point and inter-city highways as sides. Djikstra's algorithm plays a role in determining the shortest route between points on the East Java graph
+<p>Decision Support System in Determining the shortest route between cities in East Java. This system was created by converting the East Java Map into a Graph Form by making the City Center as a point and inter-city highways as sides. Djikstra's algorithm plays a role in determining the shortest route between points on the East Java graph</p>
 
 Technology : NodeJs, React Js, Material UI, Redux State Management
+<br>
 
-
-<h3>Ecommerce with PHP MVC</h3>
+<h1>Ecommerce with PHP MVC</h3>
 <img src="Screenshot from 2022-01-09 20-28-46.png" width="100%">
 
 <h3>Mobile Projects : My-Quran Mobile Flutter; FarmQow FLutter; Sociable Mobile </h3>
