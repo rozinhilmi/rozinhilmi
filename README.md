@@ -18,7 +18,6 @@ I am ready for :
     - Front-end Web Dev <br>
     - PHP MVC <br>
     - PHP Back-end <br>
-    - Flutter Web <br>
     - AJAX
 <h3>Mobile</h3>
     - FLutter Front-end <br>
@@ -76,9 +75,6 @@ Technology : NodeJs, React Js, Material UI, Redux State Management
 <hr>
 <br>
 
-<hr>
-<h1>Ecommerce with PHP MVC</h3>
-<img src="Screenshot from 2022-01-09 20-28-46.png" width="100%">
 
 
 
