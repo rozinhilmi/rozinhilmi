@@ -3,7 +3,7 @@ email : rozinhilmi@gmail.com
 
 <h3>Hello there, I'm Hilmi  👋</h3>
 
-I am a last semester information systems student with experience in Mobile Programming and Web
+I am a final semester information systems student with experience in Mobile Programming and Web
 Programming. I have worked on various projects and interacted directly with clients. I am a fast learner and
 hard worker. I am also capable of public speaking, communication and team management. Want to learn
 more about mobile programmer, web programmer and pursue more experience in software engineering.
@@ -12,6 +12,7 @@ I am ready for :
 <h3>Website</h3>
     - React JS <br>
     - React State Management(Redux) <br>
+    - Next-JS <br>
     - React Router <br>
     - Laravel 8 <br>
     - Front-end Web Dev <br>
