@@ -7,11 +7,11 @@ I am a Software Engineer with 3 years of experience working on application devel
 
 I am ready for :
 <h3>Website</h3>
+    - Full-stack Web Developer <br>
     - Node JS <br>
     - React Typescript <br>
     - React State Management(Zustand) <br>
-    - React Router <br>
-    - Front-end Web Dev <br>
+    - React Router <br><br>
 
 **Programming Language**  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
