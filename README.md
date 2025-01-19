@@ -6,12 +6,11 @@ email : rozinhilmi@gmail.com
 I am a Software Engineer with 3 years of experience working on application development. I can develop applications, a Database Management System, Front-End Development, Back-End Development, and Deploy applications to the server. I have implemented my skills in several companies, such as Software Houses, Property Companies, Construction Companies, and Tbk-level companies. I am very excited to continue to deepen my knowledge in web development and seek more experience in the world of work.
 
 I am ready for :
-<h3>Website</h3>
-    - Full-stack Web Developer <br>
+<h3>Full Stack Website Development</h3>
     - Node JS <br>
     - React Typescript <br>
     - React State Management(Zustand) <br>
-    - React Router <br><br>
+    - MYSQL Database <br><br>
 
 **Programming Language**  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
