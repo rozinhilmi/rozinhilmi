@@ -3,26 +3,15 @@ email : rozinhilmi@gmail.com
 
 <h3>Hello there, I'm Hilmi  👋</h3>
 
-I am a final semester information systems student with experience in Mobile Programming and Web
-Programming. I have worked on various projects and interacted directly with clients. I am a fast learner and
-hard worker. I am also capable of public speaking, communication and team management. Want to learn
-more about mobile programmer, web programmer and pursue more experience in software engineering.
+I am a Software Engineer with 3 years of experience working on application development. I can develop applications, a Database Management System, Front-End Development, Back-End Development, and Deploy applications to the server. I have implemented my skills in several companies, such as Software Houses, Property Companies, Construction Companies, and Tbk-level companies. I am very excited to continue to deepen my knowledge in web development and seek more experience in the world of work.
 
 I am ready for :
 <h3>Website</h3>
-    - React JS <br>
-    - React State Management(Redux) <br>
-    - Next-JS <br>
+    - Node JS <br>
+    - React Typescript <br>
+    - React State Management(Zustand) <br>
     - React Router <br>
-    - Laravel 8 <br>
     - Front-end Web Dev <br>
-    - PHP MVC <br>
-    - PHP Back-end <br>
-    - AJAX
-<h3>Mobile</h3>
-    - FLutter Front-end <br>
-    - Flutter State Management GetX <br>
-    - Flutter HTTP GET,PUT,POST,etc.. <br>
 
 **Programming Language**  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
